@@ -1,31 +1,2277 @@
 {
-  "id": "taurus-cup-2026",
+  "id": "cm_01",
   "roundsData": [
     {
-      "roundKey": "r1d1",
-      "roundName": "Round 1 (Day 1)",
+      "roundKey": "round_1",
+      "roundName": "Round 1",
       "tickets": [
         {
-          "ticketId": "r1d1-t1",
+          "ticketId": "r1_t1",
           "ticketName": "Ticket 1",
-          "summaryStats": "4 Wins / 1 Lose",
+          "summaryStats": "3 Wins",
           "roster": [
-            { "name": "Symboli Rudolf", "role": "Leader", "spd": 1200, "stm": 1050 },
-            { "name": "Maruzensky", "role": "Runner", "spd": 1200, "stm": 1000 },
-            { "name": "Nice Nature", "role": "Debuff", "spd": 1000, "stm": 1200 }
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            },
+            {
+              "name": "New Runner",
+              "role": "Leader",
+              "spd": 1000,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            }
           ],
           "races": [
             {
-              "raceId": "race-1",
-              "matchTitle": "Heat Match #1",
-              "outcome": "WIN",
+              "raceId": "r1_t1_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
               "isWin": true,
-              "youtubeId": "kJQP7kiw5Fk",
-              "notes": "Rudolf triggered her unique skill perfectly at the final corner.",
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
               "fullRankings": [
-                { "rank": 1, "name": "Symboli Rudolf", "trainer": "You", "time": "2:24.1" },
-                { "rank": 2, "name": "Oguri Cap", "trainer": "Opponent A", "time": "2:24.5" },
-                { "rank": 3, "name": "Maruzensky", "trainer": "You", "time": "2:24.9" }
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                },
+                {
+                  "rank": 3,
+                  "name": "Runner Name",
+                  "trainer": "Trainer",
+                  "time": "3:15.0"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t1_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r1_t2",
+          "ticketName": "Ticket 2",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r1_t2_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t2_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r1_t3",
+          "ticketName": "Ticket 3",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r1_t3_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t3_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r1_t4",
+          "ticketName": "Ticket 4",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r1_t4_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t4_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r1_t5",
+          "ticketName": "Ticket 5",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r1_t5_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r1_t5_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundKey": "round_2",
+      "roundName": "Round 2",
+      "tickets": [
+        {
+          "ticketId": "r2_t1",
+          "ticketName": "Ticket 1",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r2_t1_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t1_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r2_t2",
+          "ticketName": "Ticket 2",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r2_t2_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t2_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r2_t3",
+          "ticketName": "Ticket 3",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r2_t3_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t3_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r2_t4",
+          "ticketName": "Ticket 4",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r2_t4_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t4_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ticketId": "r2_t5",
+          "ticketName": "Ticket 5",
+          "summaryStats": "3 Wins",
+          "roster": [
+            {
+              "name": "Special Week",
+              "role": "Leader",
+              "spd": 1200,
+              "stm": 1000,
+              "pow": 1000,
+              "gts": 600,
+              "wit": 600
+            },
+            {
+              "name": "Silence Suzuka",
+              "role": "Runner",
+              "spd": 1200,
+              "stm": 900,
+              "pow": 900,
+              "gts": 600,
+              "wit": 700
+            }
+          ],
+          "races": [
+            {
+              "raceId": "r2_t5_race1",
+              "matchTitle": "Match 1",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 1.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race2",
+              "matchTitle": "Match 2",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 2.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race3",
+              "matchTitle": "Match 3",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 3.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race4",
+              "matchTitle": "Match 4",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 4.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race5",
+              "matchTitle": "Match 5",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 5.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race6",
+              "matchTitle": "Match 6",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 6.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race7",
+              "matchTitle": "Match 7",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 7.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race8",
+              "matchTitle": "Match 8",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 8.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
+              ]
+            },
+            {
+              "raceId": "r2_t5_race9",
+              "matchTitle": "Match 9",
+              "outcome": "1st",
+              "isWin": true,
+              "youtubeId": "yD6RGNR4vhk",
+              "notes": "Placeholder notes for race 9.",
+              "fullRankings": [
+                {
+                  "rank": 1,
+                  "name": "Special Week",
+                  "trainer": "You",
+                  "time": "3:12.4"
+                },
+                {
+                  "rank": 2,
+                  "name": "Silence Suzuka",
+                  "trainer": "Rival",
+                  "time": "3:13.1"
+                }
               ]
             }
           ]
