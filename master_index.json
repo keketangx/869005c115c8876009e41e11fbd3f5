@@ -99,5 +99,88 @@
         }
       ]
     }
+  },
+      {
+    "id": "taurus-cup-2026z",
+    "name": "Taurus Cup 2026",
+    "track": "Tokyo Turf 2400m (Left, Spring, Sunny, Firm)",
+    "bannerImg": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
+    "finalPlacing": "1st Place (Group A - Platinum)",
+    "isWin": true,
+    "dataPath": "events/taurus-cup-2026.json",
+    "previewStats": {
+      "r1d1": [
+        {"ticketName": "Ticket 1", "summaryStats": "4 Wins / 1 Lose"},
+        {"ticketName": "Ticket 2", "summaryStats": "2 Wins / 2 Lose"}
+      ],
+      "r1d2": [
+        {"ticketName": "Ticket 1", "summaryStats": "3 Wins / 2 Lose"}
+      ]
+    }
+  },
+    {
+    "id": "taurus-cup-2026",
+    "name": "Taurus Cup 2027",
+    "track": "Tokyo Turf 2400m (Left, Spring, Sunny, Firm)",
+    "bannerImg": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
+    "finalPlacing": "2nd Place (Group B - Platinum)",
+    "isWin": true,
+    "dataPath": "events/taurus-cup-2026.json",
+    "previewStats": {
+      "r1d1": [
+        {
+          "ticketName": "Ticket 1",
+          "summaryStats": "1 Wins"
+        },
+        {
+          "ticketName": "Ticket 2",
+          "summaryStats": "0 Wins"
+        },
+        {
+          "ticketName": "Ticket 3",
+          "summaryStats": "0 Wins"
+        },
+        {
+          "ticketName": "Ticket 4",
+          "summaryStats": "0 Wins"
+        }
+      ],
+      "r1d2": [
+        {
+          "ticketName": "Ticket 1",
+          "summaryStats": "0 Wins"
+        },
+        {
+          "ticketName": "Ticket 2",
+          "summaryStats": "0 Wins"
+        },
+        {
+          "ticketName": "Ticket 3",
+          "summaryStats": "0 Wins"
+        },
+        {
+          "ticketName": "Ticket 4",
+          "summaryStats": "0 Wins"
+        }
+      ]
+    }
+  },
+        {
+    "id": "taurus-cup-2026z",
+    "name": "Taurus Cup 2026",
+    "track": "Tokyo Turf 2400m (Left, Spring, Sunny, Firm)",
+    "bannerImg": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
+    "finalPlacing": "1st Place (Group A - Platinum)",
+    "isWin": true,
+    "dataPath": "events/taurus-cup-2026.json",
+    "previewStats": {
+      "r1d1": [
+        {"ticketName": "Ticket 1", "summaryStats": "4 Wins / 1 Lose"},
+        {"ticketName": "Ticket 2", "summaryStats": "2 Wins / 2 Lose"}
+      ],
+      "r1d2": [
+        {"ticketName": "Ticket 1", "summaryStats": "3 Wins / 2 Lose"}
+      ]
+    }
   }
 ]
