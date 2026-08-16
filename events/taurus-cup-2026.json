@@ -1,0 +1,36 @@
+{
+  "id": "taurus-cup-2026",
+  "roundsData": [
+    {
+      "roundKey": "r1d1",
+      "roundName": "Round 1 (Day 1)",
+      "tickets": [
+        {
+          "ticketId": "r1d1-t1",
+          "ticketName": "Ticket 1",
+          "summaryStats": "4 Wins / 1 Lose",
+          "roster": [
+            { "name": "Symboli Rudolf", "role": "Leader", "spd": 1200, "stm": 1050 },
+            { "name": "Maruzensky", "role": "Runner", "spd": 1200, "stm": 1000 },
+            { "name": "Nice Nature", "role": "Debuff", "spd": 1000, "stm": 1200 }
+          ],
+          "races": [
+            {
+              "raceId": "race-1",
+              "matchTitle": "Heat Match #1",
+              "outcome": "WIN",
+              "isWin": true,
+              "youtubeId": "kJQP7kiw5Fk",
+              "notes": "Rudolf triggered her unique skill perfectly at the final corner.",
+              "fullRankings": [
+                { "rank": 1, "name": "Symboli Rudolf", "trainer": "You", "time": "2:24.1" },
+                { "rank": 2, "name": "Oguri Cap", "trainer": "Opponent A", "time": "2:24.5" },
+                { "rank": 3, "name": "Maruzensky", "trainer": "You", "time": "2:24.9" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
