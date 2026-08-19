@@ -1,2278 +1,2845 @@
 {
-  "id": "cm_01",
+  "id": "cm_17",
   "roundsData": [
     {
-      "roundKey": "round_1",
-      "roundName": "Round 1",
+      "roundKey": "CM17R1D1",
+      "roundName": "Round 1 (Day 1)",
       "tickets": [
         {
-          "ticketId": "r1_t1",
+          "ticketId": "t1",
           "ticketName": "Ticket 1",
-          "summaryStats": "3 Wins",
+          "summaryStats": "4 Wins / 1 Lose",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Oguri Cap",
+              "role": "Ace",
+              "outfit": "Ashen Miracle",
+              "spd": 1606,
+              "stm": 786,
+              "pow": 1036,
+              "gts": 633,
+              "wit": 1192
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Nice Nature",
+              "role": "Debuffer",
+              "outfit": "Poinsettia Ribbon",
+              "spd": 1275,
+              "stm": 462,
+              "pow": 826,
+              "gts": 614,
+              "wit": 1302
             },
             {
-              "name": "New Runner",
-              "role": "Leader",
-              "spd": 1000,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Super Creek",
+              "role": "Debuffer",
+              "outfit": "Chiffon-Wrapped Mummy",
+              "spd": 963,
+              "stm": 922,
+              "pow": 686,
+              "gts": 782,
+              "wit": 1259
             }
           ],
           "races": [
             {
-              "raceId": "r1_t1_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t1_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:02.5"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Blitzo",
+                  "time": "3 L"
                 },
                 {
                   "rank": 3,
-                  "name": "Runner Name",
-                  "trainer": "Trainer",
-                  "time": "3:15.0"
+                  "name": "Mejiro Mcqueen (Summer)",
+                  "trainer": "Leo",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Leo",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Blitzo",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 7,
+                  "name": "Grass Wonder (Original)",
+                  "trainer": "Leo",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (2 star)",
+                  "trainer": "Blitzo",
+                  "time": "DIstance"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t1_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t1_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:01.6"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "FairFauxSalmon",
+                  "time": "Nose"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Henny",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Henny",
+                  "time": "8 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Agnes Tachyon (Original)",
+                  "trainer": "Henny",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "FairFauxSalmon",
+                  "time": "8 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "FairFauxSalmon",
+                  "time": "Distance"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t1_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t1_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "VS Clanker Umas",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:01.4"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "MyBiiru",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "lopy",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "MyBiiru",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "MyBiiru",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "lopy",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "Head"
+                },
+                {
+                  "rank": 9,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "lopy",
+                  "time": "7 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t1_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t1_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:01.8"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "VergilVergil",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "VergilVergil",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "VergilVergil",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "EmEmSyvTyve",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "EmEmSyvTyve",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "EmEmSyvTyve",
+                  "time": "5 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t1_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t1_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Soul",
+                  "time": "2:01.6"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t1_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "cameal",
+                  "time": "3 1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t1_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "1 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t1_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "cameal",
+                  "time": "5 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t1_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "6 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 6,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "9 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "cameal",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Grass Wonder (Original)",
+                  "trainer": "Soul",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Agnes Tachyon (Original)",
+                  "trainer": "Soul",
+                  "time": "2 1/2 L"
                 }
-              ]
+              ],
+              "isWin": false
             }
           ]
         },
         {
-          "ticketId": "r1_t2",
+          "ticketId": "t2",
           "ticketName": "Ticket 2",
-          "summaryStats": "3 Wins",
+          "summaryStats": "5 Wins",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Agnes Digital",
+              "role": "Ace",
+              "outfit": "Full-Color Fangirling",
+              "spd": 1479,
+              "stm": 1008,
+              "pow": 996,
+              "gts": 697,
+              "wit": 1145
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Nice Nature",
+              "role": "Debuffer",
+              "outfit": "Poinsettia Ribbon",
+              "spd": 1275,
+              "stm": 462,
+              "pow": 826,
+              "gts": 614,
+              "wit": 1302
+            },
+            {
+              "name": "Super Creek",
+              "role": "Debuffer",
+              "outfit": "Chiffon-Wrapped Mummy",
+              "spd": 963,
+              "stm": 922,
+              "pow": 686,
+              "gts": 782,
+              "wit": 1259
             }
           ],
           "races": [
             {
-              "raceId": "r1_t2_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t2_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.2"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Algo Vio",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Algo Vio",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Ghoul",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Ghoul",
+                  "time": "8 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Algo Vio",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Ghoul",
+                  "time": "Distance"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t2_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t2_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:00.9"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "JonhyDzib",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "JonhyDzib",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "JonhyDzib",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "moochoo",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "moochoo",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Traineramoochoo",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "Head"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t2_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t2_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.1"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Awaaran",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Ellipses",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Ellipses",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Inari One",
+                  "trainer": "Ellipses",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "El Condor Pasa (Fantasy)",
+                  "trainer": "Awaaran",
+                  "time": "Nose"
+                },
+                {
+                  "rank": 7,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "10 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Agnes Tachyon (Original)",
+                  "trainer": "Awaaran",
+                  "time": "Neck"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t2_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t2_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.6"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Kestrel",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "AnnteaChrist",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Gold City (Festival)",
+                  "trainer": "Kestrel",
+                  "time": "Nose"
+                },
+                {
+                  "rank": 5,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Kestrel",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Nice Nature",
+                  "trainer": "Me",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "AnnteaChrist",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "AnnteaChrist",
+                  "time": "3 1/2 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t2_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t2_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "Digi flexed. Won even though she didn't pop her ult.",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.5"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t2_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Dan__Y",
+                  "time": "2 1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t2_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Bingo",
+                  "time": "5 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t2_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Bingo",
+                  "time": "3 1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t2_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 6,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Bingo",
+                  "time": "Head"
+                },
+                {
+                  "rank": 7,
+                  "name": "Grass Wonder (Original)",
+                  "trainer": "Dan__Y",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Dan__Y",
+                  "time": "Distance"
                 }
-              ]
+              ],
+              "isWin": true
             }
           ]
         },
         {
-          "ticketId": "r1_t3",
+          "ticketId": "t3",
           "ticketName": "Ticket 3",
-          "summaryStats": "3 Wins",
+          "summaryStats": "4 Wins / 1 Lose",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Agnes Digital",
+              "role": "Ace",
+              "outfit": "Full-Color Fangirling",
+              "spd": 1479,
+              "stm": 1008,
+              "pow": 996,
+              "gts": 697,
+              "wit": 1145
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Nice Nature",
+              "role": "Debuffer",
+              "outfit": "Poinsettia Ribbon",
+              "spd": 1275,
+              "stm": 462,
+              "pow": 826,
+              "gts": 614,
+              "wit": 1302
+            },
+            {
+              "name": "Super Creek",
+              "role": "Debuffer",
+              "outfit": "Chiffon-Wrapped Mummy",
+              "spd": 963,
+              "stm": 922,
+              "pow": 686,
+              "gts": 782,
+              "wit": 1259
             }
           ],
           "races": [
             {
-              "raceId": "r1_t3_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t3_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "Final Rankings are unavailable from 6 - 9 as it was not available in the recorded footage. Speculated 6th and 7th place based on the race footage itself. Since Kaireyy is the only one with Eishin Flash, it is named after that trainer.",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Kaireyy",
+                  "time": "2:01.5"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "fkhggfkhfg",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 6,
+                  "name": "Nice Nature",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 7,
+                  "name": "Eishin Flash (Valentine)",
+                  "trainer": "Kaireyy",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 8,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 9,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 }
-              ]
+              ],
+              "isWin": false
             },
             {
-              "raceId": "r1_t3_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t3_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.7"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Cal",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Shu",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Shu",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Cal",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 6,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Cal",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Shu",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Nice Nature",
+                  "trainer": "Me",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "1 1/4 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t3_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t3_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.6"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Inari One (Original)",
+                  "trainer": "Labutes2005",
+                  "time": "9 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "clowiegg",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Labutes2005",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "Head"
+                },
+                {
+                  "rank": 7,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Labutes2005",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "clowiegg",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "clowiegg",
+                  "time": "10 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t3_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t3_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.0"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Kawamango",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Kawamango",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Kawamango",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "JerbiJerbi",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "JerbiJerbi",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "JerbiJerbi",
+                  "time": "Nose"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t3_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t3_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.7"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t3_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Colonel",
+                  "time": "3/4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t3_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "KILLERSSWAT14",
+                  "time": "3/4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t3_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Inari One (Original)",
+                  "trainer": "Colonel",
+                  "time": "Head"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t3_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "KILLERSSWAT14",
+                  "time": "2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 6,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "KILLERSSWAT14",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Colonel",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "3 L"
                 }
-              ]
+              ],
+              "isWin": true
             }
           ]
         },
         {
-          "ticketId": "r1_t4",
+          "ticketId": "t4",
           "ticketName": "Ticket 4",
-          "summaryStats": "3 Wins",
+          "summaryStats": "4 Wins / 1 Lose",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Copano Rickey",
+              "role": "Ace",
+              "outfit": "Eightfold\u2606Fortune",
+              "spd": 1495,
+              "stm": 887,
+              "pow": 1057,
+              "gts": 624,
+              "wit": 877
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Nice Nature",
+              "role": "Debuffer",
+              "outfit": "Poinsettia Ribbon",
+              "spd": 1275,
+              "stm": 462,
+              "pow": 826,
+              "gts": 614,
+              "wit": 1302
+            },
+            {
+              "name": "Super Creek",
+              "role": "Debuffer",
+              "outfit": "Chiffon-Wrapped Mummy",
+              "spd": 963,
+              "stm": 922,
+              "pow": 686,
+              "gts": 782,
+              "wit": 1259
             }
           ],
           "races": [
             {
-              "raceId": "r1_t4_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t4_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "Final Rankings are unavailable from 5 - 9 as it was not available in the recorded footage.",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Rus",
+                  "time": "2:01.7"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Taiki Shuttle (Camping)",
+                  "trainer": "Rus",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "T.M. Opera O",
+                  "trainer": "Rus",
+                  "time": "Head"
+                },
+                {
+                  "rank": 5,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 6,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 7,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 8,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 9,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 }
-              ]
+              ],
+              "isWin": false
             },
             {
-              "raceId": "r1_t4_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t4_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.4"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "Imprisoned",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Lomo",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 4,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "8 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Imprisoned",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Imprisoned",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Lomo",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (2 Star)",
+                  "trainer": "Lomo",
+                  "time": "Distance"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t4_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t4_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "Final Rankings are unavailable from 6 - 9 as it was not available in the recorded footage.",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.2"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "M-Tz34",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Onett",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "Onett",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 7,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 8,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
+                },
+                {
+                  "rank": 9,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t4_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t4_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "2:00.9"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Orion",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Fuwa",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Hishi Amazon (Original)",
+                  "trainer": "Orion",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Meisho Doto (Original)",
+                  "trainer": "Orion",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 8,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Fuwa",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "Fuwa",
+                  "time": "9 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r1_t4_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t4_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "Final Rankings are unavailable from 5 - 9 as it was not available in the recorded footage.",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.9"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t4_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Meisho Doto (Original)",
+                  "trainer": "rayquaza",
+                  "time": "1 1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t4_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Rin",
+                  "time": "4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t4_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "rayquaza",
+                  "time": "2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t4_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "ticketId": "r1_t5",
-          "ticketName": "Ticket 5",
-          "summaryStats": "3 Wins",
-          "roster": [
-            {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
-            },
-            {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
-            }
-          ],
-          "races": [
-            {
-              "raceId": "r1_t5_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 6,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 7,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 8,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 9,
+                  "name": "Unavailable",
+                  "trainer": "Unavailable",
+                  "time": "Unavailable"
                 }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r1_t5_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
+              ],
+              "isWin": true
             }
           ]
         }
       ]
     },
     {
-      "roundKey": "round_2",
-      "roundName": "Round 2",
+      "roundKey": "CM17R1D2",
+      "roundName": "Round 1 (Day 2)",
       "tickets": [
         {
-          "ticketId": "r2_t1",
+          "ticketId": "t1",
           "ticketName": "Ticket 1",
-          "summaryStats": "3 Wins",
+          "summaryStats": "4 Wins / 1 Lose",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Agnes Digital",
+              "role": "Ace",
+              "outfit": "Full-Color Fangirling",
+              "spd": 1479,
+              "stm": 1008,
+              "pow": 996,
+              "gts": 697,
+              "wit": 1145
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Nice Nature",
+              "role": "Debuffer",
+              "outfit": "Poinsettia Ribbon",
+              "spd": 1275,
+              "stm": 462,
+              "pow": 826,
+              "gts": 614,
+              "wit": 1302
+            },
+            {
+              "name": "Super Creek",
+              "role": "Debuffer",
+              "outfit": "Chiffon-Wrapped Mummy",
+              "spd": 963,
+              "stm": 922,
+              "pow": 686,
+              "gts": 782,
+              "wit": 1259
             }
           ],
           "races": [
             {
-              "raceId": "r2_t1_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t1_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "TenJ100",
+                  "time": "2:02.5"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Grass Wonder (Original)",
+                  "trainer": "TenJ100",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "SelmaShepherd",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Nice Nature (Cheerleader)",
+                  "trainer": "TenJ100",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "SelmaShepherd",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 7,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "SelmaShepherd",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "3 1/2 L"
                 }
-              ]
+              ],
+              "isWin": false
             },
             {
-              "raceId": "r2_t1_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t1_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.8"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Onnie",
+                  "time": "8 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Onnie",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Maruzensky (Summer)",
+                  "trainer": "Feiz",
+                  "time": "8 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Feiz",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Maruzensky (Summer)",
+                  "trainer": "Onnie",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "Feiz",
+                  "time": "3 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t1_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t1_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.3"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Alicia",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Alicia",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Inari One (Original)",
+                  "trainer": "Tanaka",
+                  "time": "Nose"
+                },
+                {
+                  "rank": 5,
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "Alicia",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Tanaka",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Tanaka",
+                  "time": "2 1/2 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t1_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t1_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.7"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Zestian",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "9 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "El Condor Pasa (Fantasy)",
+                  "trainer": "Oguri",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "Oguri",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Zestian",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Zestian",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Oguri",
+                  "time": "1 1/4 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t1_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t1_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.5"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t1_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "PONPES ALHAKIM",
+                  "time": "4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t1_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "PONPES ALHAKIM",
+                  "time": "5 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t1_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Pip",
+                  "time": "2 1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t1_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 6,
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "Pip",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Mejiro McQueen (Anime Collab)",
+                  "trainer": "PONPES ALHAKIM",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "Pip",
+                  "time": "3 1/2 L"
                 }
-              ]
+              ],
+              "isWin": true
             }
           ]
         },
         {
-          "ticketId": "r2_t2",
+          "ticketId": "t2",
           "ticketName": "Ticket 2",
-          "summaryStats": "3 Wins",
+          "summaryStats": "4 Wins / 1 Lose",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Agnes Digital",
+              "role": "Ace",
+              "outfit": "Full-Color Fangirling",
+              "spd": 1479,
+              "stm": 1008,
+              "pow": 996,
+              "gts": 697,
+              "wit": 1145
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Copano Rickey",
+              "role": "Ace",
+              "outfit": "Eightfold\u2606Fortune",
+              "spd": 1495,
+              "stm": 887,
+              "pow": 1057,
+              "gts": 624,
+              "wit": 877
+            },
+            {
+              "name": "Oguri Cap",
+              "role": "Ace",
+              "outfit": "Ashen Miracle",
+              "spd": 1606,
+              "stm": 786,
+              "pow": 1036,
+              "gts": 633,
+              "wit": 1192
             }
           ],
           "races": [
             {
-              "raceId": "r2_t2_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t2_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:02.7"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Felicianox",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "3 /4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Haru Urara (New Year)",
+                  "trainer": "Felicianox",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 6,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Felicianox",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "HcTor",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "HcTor",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "HcTor",
+                  "time": "1 3/4 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t2_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t2_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:01.2"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Lana",
+                  "time": "Head"
+                },
+                {
+                  "rank": 4,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Lana",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "\u043c \u0438 \u043b \u043a \u0430",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "\u043c \u0438 \u043b \u043a \u0430",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "\u043c \u0438 \u043b \u043a \u0430",
+                  "time": "Head"
+                },
+                {
+                  "rank": 9,
+                  "name": "Maruzensky (Summer)",
+                  "trainer": "Lana",
+                  "time": "Nose"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t2_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t2_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:01.3"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "finn !",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Flummox",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "finn !",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 7,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Flummox",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "finn !",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Flummox",
+                  "time": "Neck"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t2_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t2_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "2:02.0"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Patter",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Patter",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Isolidst",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Isolidst",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 8,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Patter",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Isolidst",
+                  "time": "2 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t2_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t2_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Rozwick",
+                  "time": "2:01.3"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t2_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t2_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Me",
+                  "time": "Neck"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t2_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t2_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Rozwick",
+                  "time": "3/4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 6,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Tsimkoob",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Tsimkoob",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Grass Wonder (Original)",
+                  "trainer": "Rozwick",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Tsimkoob",
+                  "time": "6 L"
                 }
-              ]
+              ],
+              "isWin": false
             }
           ]
         },
         {
-          "ticketId": "r2_t3",
+          "ticketId": "t3",
           "ticketName": "Ticket 3",
-          "summaryStats": "3 Wins",
+          "summaryStats": "4 Wins / 1 Lose",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Agnes Digital",
+              "role": "Ace",
+              "outfit": "Full-Color Fangirling",
+              "spd": 1583,
+              "stm": 751,
+              "pow": 1129,
+              "gts": 576,
+              "wit": 1190
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Super Creek",
+              "role": "Debuffer",
+              "outfit": "Chiffon-Wrapped Mummy",
+              "spd": 963,
+              "stm": 922,
+              "pow": 686,
+              "gts": 782,
+              "wit": 1259
+            },
+            {
+              "name": "Nice Nature",
+              "role": "Debuffer",
+              "outfit": "Poinsettia Ribbon",
+              "spd": 1275,
+              "stm": 462,
+              "pow": 826,
+              "gts": 614,
+              "wit": 1302
             }
           ],
           "races": [
             {
-              "raceId": "r2_t3_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t3_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.6"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Nabu",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Mejiro Mcqueen (Original)",
+                  "trainer": "DOJI3",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Fuji Kiseki (Ballroom)",
+                  "trainer": "DOJI3",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "El Condor Pasa (Fantasy)",
+                  "trainer": "DOJI3",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 6,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Inari One (Original)",
+                  "trainer": "Nabu",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Nabu",
+                  "time": "8 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t3_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t3_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.4"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "AJ",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Naem",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Naem",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Naem",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Agnes Tachyon (Original)",
+                  "trainer": "AJ",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "AJ",
+                  "time": "Distance"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t3_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t3_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "nasegs",
+                  "time": "2:01.1"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 3,
+                  "name": "Grass Wonder (Original)",
+                  "trainer": "nasegs",
+                  "time": "Distance"
+                },
+                {
+                  "rank": 4,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "1 3/4 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Moff",
+                  "time": "Head"
+                },
+                {
+                  "rank": 6,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "nasegs",
+                  "time": "3 1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Moff",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Moff",
+                  "time": "10 L"
                 }
-              ]
+              ],
+              "isWin": false
             },
             {
-              "raceId": "r2_t3_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t3_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "Digi did a no ult win flex",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.3"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "DerpDerp131",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Mejiro McQueen (Original)",
+                  "trainer": "DerpDerp131",
+                  "time": "Neck"
+                },
+                {
+                  "rank": 4,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "DerpDerp131",
+                  "time": "Head"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Gogros",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Gogros",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Gogros",
+                  "time": "2 1/2 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t3_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t3_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.6"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t3_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Kookie",
+                  "time": "4 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t3_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Kookie",
+                  "time": "7 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t3_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Meisho Doto (Original)",
+                  "trainer": "Kookie",
+                  "time": "1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t3_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 6,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Esther",
+                  "time": "Distance"
+                },
+                {
+                  "rank": 8,
+                  "name": "Smart Falcon (Grand Concert)",
+                  "trainer": "Esther",
+                  "time": "Distance"
+                },
+                {
+                  "rank": 9,
+                  "name": "Fuji Kiseki (Original)",
+                  "trainer": "Esther",
+                  "time": "3 1/2 L"
                 }
-              ]
+              ],
+              "isWin": true
             }
           ]
         },
         {
-          "ticketId": "r2_t4",
+          "ticketId": "t4",
           "ticketName": "Ticket 4",
-          "summaryStats": "3 Wins",
+          "summaryStats": "2 Wins / 3 Lose",
           "roster": [
             {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
+              "name": "Agnes Digital",
+              "role": "Ace",
+              "outfit": "Full-Color Fangirling",
+              "spd": 1479,
+              "stm": 1008,
+              "pow": 996,
+              "gts": 697,
+              "wit": 1145
             },
             {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
+              "name": "Super Creek",
+              "role": "Debuffer",
+              "outfit": "Chiffon-Wrapped Mummy",
+              "spd": 963,
+              "stm": 922,
+              "pow": 686,
+              "gts": 782,
+              "wit": 1259
+            },
+            {
+              "name": "Nice Nature",
+              "role": "Debuffer",
+              "outfit": "Poinsettia Ribbon",
+              "spd": 1275,
+              "stm": 462,
+              "pow": 826,
+              "gts": 614,
+              "wit": 1302
             }
           ],
           "races": [
             {
-              "raceId": "r2_t4_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
+              "raceId": "t4_race1",
+              "matchTitle": "Race 1",
+              "youtubeId": "-updateme-",
+              "notes": "VS clanker umas | Podium Win",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:02.2"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "Distance"
+                },
+                {
+                  "rank": 3,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Mew",
+                  "time": "7 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "muahakyoto",
+                  "time": "3 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Mew",
+                  "time": "1 1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "T.M. Opera O (New Year)",
+                  "trainer": "muahakyoto",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Maruzensky (Original)",
+                  "trainer": "muahakyoto",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Mew",
+                  "time": "Distance"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t4_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
+              "raceId": "t4_race2",
+              "matchTitle": "Race 2",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2:01.3"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "Distance"
+                },
+                {
+                  "rank": 3,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "1 1/4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Porokon",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "El Condor Pasa (2 Star)",
+                  "trainer": "Porokon",
+                  "time": "6 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "SkibiDefenseW",
+                  "time": "Distance"
+                },
+                {
+                  "rank": 7,
+                  "name": "Biwa Hayahide (Christmas)",
+                  "trainer": "Porokon",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "SkibiDefenseW",
+                  "time": "Distance"
+                },
+                {
+                  "rank": 9,
+                  "name": "Mejiro Palmer (Original)",
+                  "trainer": "SkibiDefenseW",
+                  "time": "3 1/2 L"
                 }
-              ]
+              ],
+              "isWin": true
             },
             {
-              "raceId": "r2_t4_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
+              "raceId": "t4_race3",
+              "matchTitle": "Race 3",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "TLF",
+                  "time": "2:01.7"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Gold City (Festival)",
+                  "trainer": "TLF",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "TLF",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "robot ?",
+                  "time": "2 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Taiki Shuttle (Original)",
+                  "trainer": "robot ?",
+                  "time": "10 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "robot ?",
+                  "time": "5 L"
                 }
-              ]
+              ],
+              "isWin": false
             },
             {
-              "raceId": "r2_t4_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
+              "raceId": "t4_race4",
+              "matchTitle": "Race 4",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Zeegee",
+                  "time": "2:02.0"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "name": "Copano Rickey (Original)",
+                  "trainer": "Zeegee",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 3,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "4 L"
+                },
+                {
+                  "rank": 4,
+                  "name": "Inari One (Original)",
+                  "trainer": "Kou",
+                  "time": "1 L"
+                },
+                {
+                  "rank": 5,
+                  "name": "Oguri Cap (Original)",
+                  "trainer": "Kou",
+                  "time": "5 L"
+                },
+                {
+                  "rank": 6,
+                  "name": "El Condor Pasa (Original)",
+                  "trainer": "Kou",
+                  "time": "2 1/2 L"
+                },
+                {
+                  "rank": 7,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Me",
+                  "time": "3/4 L"
+                },
+                {
+                  "rank": 8,
+                  "name": "Maruzensky (Original)",
+                  "trainer": "Zeegee",
+                  "time": "1/2 L"
+                },
+                {
+                  "rank": 9,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "5 L"
                 }
-              ]
+              ],
+              "isWin": false
             },
             {
-              "raceId": "r2_t4_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
+              "raceId": "t4_race5",
+              "matchTitle": "Race 5",
+              "youtubeId": "-updateme-",
+              "notes": "None",
               "fullRankings": [
                 {
                   "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Atsen",
+                  "time": "2:01.0"
                 },
                 {
                   "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t4_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "Neck"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t4_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 3,
+                  "name": "Oguri Cap (Christmas)",
+                  "trainer": "Zerst",
+                  "time": "1 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t4_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 4,
+                  "name": "Inari One (Original)",
+                  "trainer": "Zerst",
+                  "time": "1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t4_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 5,
+                  "name": "Nice Nature (Original)",
+                  "trainer": "Me",
+                  "time": "5 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "ticketId": "r2_t5",
-          "ticketName": "Ticket 5",
-          "summaryStats": "3 Wins",
-          "roster": [
-            {
-              "name": "Special Week",
-              "role": "Leader",
-              "spd": 1200,
-              "stm": 1000,
-              "pow": 1000,
-              "gts": 600,
-              "wit": 600
-            },
-            {
-              "name": "Silence Suzuka",
-              "role": "Runner",
-              "spd": 1200,
-              "stm": 900,
-              "pow": 900,
-              "gts": 600,
-              "wit": 700
-            }
-          ],
-          "races": [
-            {
-              "raceId": "r2_t5_race1",
-              "matchTitle": "Match 1",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 1.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 6,
+                  "name": "Super Creek (Halloween)",
+                  "trainer": "Atsen",
+                  "time": "7 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race2",
-              "matchTitle": "Match 2",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 2.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 7,
+                  "name": "Smart Falcon (Original)",
+                  "trainer": "Atsen",
+                  "time": "2 1/2 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race3",
-              "matchTitle": "Match 3",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 3.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
+                  "rank": 8,
+                  "name": "Agnes Digital (Original)",
+                  "trainer": "Me",
+                  "time": "9 L"
                 },
                 {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
+                  "rank": 9,
+                  "name": "Symboli Rudolf (Original)",
+                  "trainer": "Zerst",
+                  "time": "Distance"
                 }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race4",
-              "matchTitle": "Match 4",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 4.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race5",
-              "matchTitle": "Match 5",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 5.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race6",
-              "matchTitle": "Match 6",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 6.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race7",
-              "matchTitle": "Match 7",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 7.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race8",
-              "matchTitle": "Match 8",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 8.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
-            },
-            {
-              "raceId": "r2_t5_race9",
-              "matchTitle": "Match 9",
-              "outcome": "1st",
-              "isWin": true,
-              "youtubeId": "yD6RGNR4vhk",
-              "notes": "Placeholder notes for race 9.",
-              "fullRankings": [
-                {
-                  "rank": 1,
-                  "name": "Special Week",
-                  "trainer": "You",
-                  "time": "3:12.4"
-                },
-                {
-                  "rank": 2,
-                  "name": "Silence Suzuka",
-                  "trainer": "Rival",
-                  "time": "3:13.1"
-                }
-              ]
+              ],
+              "isWin": false
             }
           ]
         }
